@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.net\\asp_web\\asp_web\\baitap2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5375BC-FC6A-4F78-96CF-664CC17A5A8A}|baitap2\\baitap2.csproj|d:\\asp.net\\asp_web\\asp_web\\baitap2\\baitap2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE5375BC-FC6A-4F78-96CF-664CC17A5A8A}|baitap2\\baitap2.csproj|solutionrelative:baitap2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5375BC-FC6A-4F78-96CF-664CC17A5A8A}|baitap2\\baitap2.csproj|d:\\asp.net\\asp_web\\asp_web\\baitap2\\baitap2\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{FE5375BC-FC6A-4F78-96CF-664CC17A5A8A}|baitap2\\baitap2.csproj|solutionrelative:baitap2\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\ASP.net\\asp_web\\asp_web\\baitap2\\baitap2\\.gitignore",
+              "RelativeDocumentMoniker": "baitap2\\.gitignore",
+              "ToolTip": "D:\\ASP.net\\asp_web\\asp_web\\baitap2\\baitap2\\.gitignore",
+              "RelativeToolTip": "baitap2\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-28T07:28:40.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.net\\asp_web\\asp_web\\baitap2\\baitap2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "baitap2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ASP.net\\asp_web\\asp_web\\baitap2\\baitap2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "baitap2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T07:27:58.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
