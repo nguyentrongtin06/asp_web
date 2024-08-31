@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\ASP.net\\asp_web\\asp_web\\baitap2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FE5375BC-FC6A-4F78-96CF-664CC17A5A8A}|baitap2\\baitap2.csproj|d:\\asp.net\\asp_web\\asp_web\\baitap2\\baitap2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5375BC-FC6A-4F78-96CF-664CC17A5A8A}|baitap2\\baitap2.csproj|solutionrelative:baitap2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FE5375BC-FC6A-4F78-96CF-664CC17A5A8A}|baitap2\\baitap2.csproj|d:\\asp.net\\asp_web\\asp_web\\baitap2\\baitap2\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FE5375BC-FC6A-4F78-96CF-664CC17A5A8A}|baitap2\\baitap2.csproj|solutionrelative:baitap2\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.net\\asp_web\\asp_web\\baitap2\\baitap2\\Program.cs",
+              "RelativeDocumentMoniker": "baitap2\\Program.cs",
+              "ToolTip": "D:\\ASP.net\\asp_web\\asp_web\\baitap2\\baitap2\\Program.cs",
+              "RelativeToolTip": "baitap2\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T06:17:31.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\ASP.net\\asp_web\\asp_web\\baitap2\\baitap2\\Views\\TheLoai\\Index.cshtml",
               "RelativeDocumentMoniker": "baitap2\\Views\\TheLoai\\Index.cshtml",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TheLoaiController.cs",
               "DocumentMoniker": "D:\\ASP.net\\asp_web\\asp_web\\baitap2\\baitap2\\Controllers\\TheLoaiController.cs",
               "RelativeDocumentMoniker": "baitap2\\Controllers\\TheLoaiController.cs",
@@ -51,12 +68,11 @@
               "RelativeToolTip": "baitap2\\Controllers\\TheLoaiController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T07:53:06.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T07:53:06.236Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": ".gitignore",
               "DocumentMoniker": "D:\\ASP.net\\asp_web\\asp_web\\baitap2\\baitap2\\.gitignore",
               "RelativeDocumentMoniker": "baitap2\\.gitignore",
@@ -64,12 +80,11 @@
               "RelativeToolTip": "baitap2\\.gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-28T07:28:40.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T07:28:40.802Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\ASP.net\\asp_web\\asp_web\\baitap2\\baitap2\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "baitap2\\Views\\Home\\Index.cshtml",
@@ -77,8 +92,7 @@
               "RelativeToolTip": "baitap2\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-28T07:27:58.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T07:27:58.223Z"
             }
           ]
         }
