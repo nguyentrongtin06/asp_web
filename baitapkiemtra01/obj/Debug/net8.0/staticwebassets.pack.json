@@ -1,0 +1,449 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\baitapkiemtra01.bundle.scp.css",
+      "PackagePath": "staticwebassets\\baitapkiemtra01.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\css\\style.scss",
+      "PackagePath": "staticwebassets\\css\\style.scss"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\images\\Screenshot 2024-09-14 140644.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2024-09-14 140644.png"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\images\\about-img-1.png",
+      "PackagePath": "staticwebassets\\images\\about-img-1.png"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\images\\about-img.png",
+      "PackagePath": "staticwebassets\\images\\about-img.png"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\images\\client-1.jpg",
+      "PackagePath": "staticwebassets\\images\\client-1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\images\\client-2.jpg",
+      "PackagePath": "staticwebassets\\images\\client-2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\images\\contact.jpg",
+      "PackagePath": "staticwebassets\\images\\contact.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\images\\controller.png",
+      "PackagePath": "staticwebassets\\images\\controller.png"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\images\\envelope.png",
+      "PackagePath": "staticwebassets\\images\\envelope.png"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\images\\facebook-logo.png",
+      "PackagePath": "staticwebassets\\images\\facebook-logo.png"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\images\\hero-bg.png",
+      "PackagePath": "staticwebassets\\images\\hero-bg.png"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\images\\hero.png",
+      "PackagePath": "staticwebassets\\images\\hero.png"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\images\\idea.png",
+      "PackagePath": "staticwebassets\\images\\idea.png"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\images\\info-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\info-bg.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\images\\instagram.png",
+      "PackagePath": "staticwebassets\\images\\instagram.png"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\images\\left-arrow-black.png",
+      "PackagePath": "staticwebassets\\images\\left-arrow-black.png"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\images\\left-arrow-white.png",
+      "PackagePath": "staticwebassets\\images\\left-arrow-white.png"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\images\\linkedin-sign.png",
+      "PackagePath": "staticwebassets\\images\\linkedin-sign.png"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\images\\location.png",
+      "PackagePath": "staticwebassets\\images\\location.png"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\images\\maytinh.png",
+      "PackagePath": "staticwebassets\\images\\maytinh.png"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\images\\maytinh2.png",
+      "PackagePath": "staticwebassets\\images\\maytinh2.png"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\images\\menu.png",
+      "PackagePath": "staticwebassets\\images\\menu.png"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\images\\monitor.png",
+      "PackagePath": "staticwebassets\\images\\monitor.png"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\images\\p-1.png",
+      "PackagePath": "staticwebassets\\images\\p-1.png"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\images\\p-2.png",
+      "PackagePath": "staticwebassets\\images\\p-2.png"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\images\\p-3.png",
+      "PackagePath": "staticwebassets\\images\\p-3.png"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\images\\p-4.png",
+      "PackagePath": "staticwebassets\\images\\p-4.png"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\images\\p-5.png",
+      "PackagePath": "staticwebassets\\images\\p-5.png"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\images\\p-6.jpg",
+      "PackagePath": "staticwebassets\\images\\p-6.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\images\\right-arrow-black.png",
+      "PackagePath": "staticwebassets\\images\\right-arrow-black.png"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\images\\right-arrow-white.png",
+      "PackagePath": "staticwebassets\\images\\right-arrow-white.png"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\images\\rocket-ship.png",
+      "PackagePath": "staticwebassets\\images\\rocket-ship.png"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\images\\search-icon-black.png",
+      "PackagePath": "staticwebassets\\images\\search-icon-black.png"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\images\\search-icon.png",
+      "PackagePath": "staticwebassets\\images\\search-icon.png"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\images\\skill-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\skill-bg.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\images\\telephone.png",
+      "PackagePath": "staticwebassets\\images\\telephone.png"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\images\\twitter-logo.png",
+      "PackagePath": "staticwebassets\\images\\twitter-logo.png"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\js\\circles.min.js",
+      "PackagePath": "staticwebassets\\js\\circles.min.js"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\baitapkiemtra01\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.baitapkiemtra01.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.baitapkiemtra01.props",
+      "PackagePath": "build\\baitapkiemtra01.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.baitapkiemtra01.props",
+      "PackagePath": "buildMultiTargeting\\baitapkiemtra01.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.baitapkiemtra01.props",
+      "PackagePath": "buildTransitive\\baitapkiemtra01.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

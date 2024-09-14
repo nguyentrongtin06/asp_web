@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\baitapkiemtra01.props" />
+</Project>
