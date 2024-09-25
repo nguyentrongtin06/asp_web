@@ -7,6 +7,12 @@ namespace bai07.Controllers
     public class TheLoaiController : Controller
     {
         private readonly ApplicationDbContext _db;
+        private static List<TheLoai> categories = new List<TheLoai>
+        {
+        new TheLoai { Id = 1, Name = "Thể loại 1", DateCreated = DateTime.Now },
+        new TheLoai { Id = 2, Name = "Thể loại 2", DateCreated = DateTime.Now }
+        };
+        
         public TheLoaiController(ApplicationDbContext db)
         {
             _db = db;
@@ -26,11 +32,13 @@ namespace bai07.Controllers
         [HttpPost]
         public IActionResult Create(TheLoai theLoai)
         {
+            if (ModelState.IsValid)
+            {
+                _db.TheLoai.Add(theLoai);
 
-            _db.TheLoai.Add(theLoai);
-
-            _db.SaveChanges();
-
+                _db.SaveChanges();
+                return RedirectToAction("Index");
+            }
             return View();
         }
         [HttpGet]
@@ -43,7 +51,6 @@ namespace bai07.Controllers
             var theloai = _db.TheLoai.Find(id);
             return View(theloai);
         }
-
         [HttpPost]
         public IActionResult Edit(TheLoai theloai)
         {
@@ -58,7 +65,6 @@ namespace bai07.Controllers
             }
             return View();
         }
-
         [HttpGet]
         public IActionResult Delete(int id)
         {
@@ -82,5 +88,15 @@ namespace bai07.Controllers
             _db.SaveChanges();
             return RedirectToAction("Index");
         }
+        public IActionResult Details(int id)
+        {
+            var theloai = _db.TheLoai.FirstOrDefault(c => c.Id == id);
+            if (theloai == null)
+            {
+                return NotFound();
+            }
+            return View(theloai);
+        }
+
     }
 }

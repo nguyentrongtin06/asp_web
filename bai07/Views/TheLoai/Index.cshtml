@@ -6,6 +6,7 @@
                     Tên Thể Loại
                 </th>
                 <th> Ngày tạo </th>
+                <th>Chức năng</th>
             </tr>
         </thead>
         <tbody>
@@ -13,7 +14,15 @@
             {
                 <tr>
                     <td width="30%">@item.Name</td>
-                    <td width="70%">@string.Format("{0:dd/MM/yyyy}", item.DateCreated)</td>
+                    <td width="50%">@string.Format("{0:dd/MM/yyyy}", item.DateCreated)</td>
+                    <td width="20%">    
+                        <a asp-action="Edit" asp-route-id="@item.Id">
+                            Edit
+                        </a> |
+                        <a asp-action="Delete" asp-route-id="@item.Id">
+                            Delete
+                        </a>                  
+                    </td>
                 </tr>
             }
         </tbody>
