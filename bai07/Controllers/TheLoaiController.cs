@@ -7,12 +7,7 @@ namespace bai07.Controllers
     public class TheLoaiController : Controller
     {
         private readonly ApplicationDbContext _db;
-        private static List<TheLoai> categories = new List<TheLoai>
-        {
-        new TheLoai { Id = 1, Name = "Thể loại 1", DateCreated = DateTime.Now },
-        new TheLoai { Id = 2, Name = "Thể loại 2", DateCreated = DateTime.Now }
-        };
-        
+      
         public TheLoaiController(ApplicationDbContext db)
         {
             _db = db;
@@ -88,15 +83,46 @@ namespace bai07.Controllers
             _db.SaveChanges();
             return RedirectToAction("Index");
         }
+        [HttpGet]
         public IActionResult Details(int id)
         {
-            var theloai = _db.TheLoai.FirstOrDefault(c => c.Id == id);
-            if (theloai == null)
+            if (id == 0)
             {
                 return NotFound();
             }
+            var theloai = _db.TheLoai.Find(id);
             return View(theloai);
         }
-
+        [HttpGet]
+        public IActionResult Details(TheLoai theloai)
+        {
+            if (ModelState.IsValid)
+            {
+                // Thêm thông tin vào bảng TheLoai
+                _db.TheLoai.Update(theloai);
+                // Lưu lại
+                _db.SaveChanges();
+                // Chuyển trang về index
+                return RedirectToAction("Index");
+            }
+            return View();
+        }
+        [HttpGet]
+        public IActionResult Search(String searchString)
+        {
+            if (!String.IsNullOrEmpty(searchString))
+            {
+                var theloai= _db.TheLoai.
+                Where(tl => tl.Name.Contains(searchString)).ToList();
+                ViewBag.searchString = searchString;
+                ViewBag.TheLoai = theloai;
+            }
+            else
+            {
+                var theloai = _db.TheLoai.ToList();
+                ViewBag.Theloai = theloai;
+            }
+            return View("index");
+        }
     }
 }

@@ -1,6 +1,6 @@
 ﻿@model TheLoai
-
-<h2>Chi tiết thể loại</h2>
-<p>Tên thể loại: @Model.Name</p>
-<p>Ngày tạo: @Model.DateCreated.ToShortDateString()</p>
-<a href="@Url.Action("Index")">Quay lại</a>
+<div class="container">
+    id:<b>@Model.Id</b> <br/>
+    tên:<b>@Model.Name</b> <br/>
+    Ngày tạo:<b>@string.Format("{0:dd/MM/yyyy}", Model.DateCreated)</b> <br/>
+</div>

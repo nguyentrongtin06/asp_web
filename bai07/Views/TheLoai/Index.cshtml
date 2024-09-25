@@ -1,4 +1,9 @@
 ﻿<div class="container">
+    <form asp-action="Search" method="get">
+        <input type="text" name="searchString" placeholder="Nhập thể loại cần tìm...."
+        value="@ViewBag.SearchString"/>
+        <input type="submit" value="tìm kiếm"/>
+    </form>
     <table class="table">
         <thead>
             <tr>
@@ -14,14 +19,17 @@
             {
                 <tr>
                     <td width="30%">@item.Name</td>
-                    <td width="50%">@string.Format("{0:dd/MM/yyyy}", item.DateCreated)</td>
-                    <td width="20%">    
+                    <td width="40%">@string.Format("{0:dd/MM/yyyy}", item.DateCreated)</td>
+                    <td width="30%">    
                         <a asp-action="Edit" asp-route-id="@item.Id">
                             Edit
                         </a> |
                         <a asp-action="Delete" asp-route-id="@item.Id">
                             Delete
-                        </a>                  
+                        </a>
+                        <a asp-action="Details" asp-route-id="@item.Id">
+                            Details
+                        </a> |
                     </td>
                 </tr>
             }
