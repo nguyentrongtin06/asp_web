@@ -1,0 +1,33 @@
+﻿<div class="container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th> tên nhà cung cấp</th>
+                <th> Ngày mua </th>
+                <th>Chức năng</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in ViewBag.Supplier)
+            {
+                <tr>
+                    <td width="30%">@item.Name</td>
+                    <td width="40%">@string.Format("{0:dd/MM/yyyy}", item.DateCreated)</td>
+                    <td width="30%">
+                        <a asp-action="Edit" asp-route-id="@item.Id">
+                            Edit
+                        </a> |
+                        <a asp-action="Delete" asp-route-id="@item.Id">
+                            Delete
+                        </a>
+                        <a asp-action="Details" asp-route-id="@item.Id">
+                            Details
+                        </a> |
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a asp-controller="Supplier" asp-action="Create" class="btn btn-primary"> Thêm mới</a>
+</div>
+
