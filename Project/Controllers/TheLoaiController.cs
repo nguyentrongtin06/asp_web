@@ -1,10 +1,12 @@
 ﻿using Project.Data;
 using Project.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Project.Controllers
 {
     [Area("admin")]
+    [Authorize(Roles = "admin")]
     public class TheLoaiController : Controller
     {
        

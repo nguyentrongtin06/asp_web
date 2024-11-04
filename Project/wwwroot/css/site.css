@@ -20,3 +20,13 @@ html {
 body {
   margin-bottom: 60px;
 }
+#menu ul li > .sub-menu {
+    display: none;
+    position: absolute;
+}
+#menu ul li:hover .sub-menu{
+    display:block;
+}
+#menu ul li {
+    margin-left: 0 !important;
+}

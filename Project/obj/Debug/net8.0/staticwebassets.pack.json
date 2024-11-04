@@ -13,6 +13,74 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\Project\\wwwroot\\images\\1.jpeg",
+      "PackagePath": "staticwebassets\\images\\1.jpeg"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\Project\\wwwroot\\images\\2.jpeg",
+      "PackagePath": "staticwebassets\\images\\2.jpeg"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\Project\\wwwroot\\images\\3.jpeg",
+      "PackagePath": "staticwebassets\\images\\3.jpeg"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\Project\\wwwroot\\images\\cup\\1.jpeg",
+      "PackagePath": "staticwebassets\\images\\cup\\1.jpeg"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\Project\\wwwroot\\images\\cup\\2.jpeg",
+      "PackagePath": "staticwebassets\\images\\cup\\2.jpeg"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\Project\\wwwroot\\images\\cup\\3.jpeg",
+      "PackagePath": "staticwebassets\\images\\cup\\3.jpeg"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\Project\\wwwroot\\images\\cup\\4.jpeg",
+      "PackagePath": "staticwebassets\\images\\cup\\4.jpeg"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\Project\\wwwroot\\images\\cup\\5.jpeg",
+      "PackagePath": "staticwebassets\\images\\cup\\5.jpeg"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\Project\\wwwroot\\images\\cup\\6.jpeg",
+      "PackagePath": "staticwebassets\\images\\cup\\6.jpeg"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\Project\\wwwroot\\images\\cup\\7.jpeg",
+      "PackagePath": "staticwebassets\\images\\cup\\7.jpeg"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\Project\\wwwroot\\images\\cup\\8.jpeg",
+      "PackagePath": "staticwebassets\\images\\cup\\8.jpeg"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\Project\\wwwroot\\images\\four.jpeg",
+      "PackagePath": "staticwebassets\\images\\four.jpeg"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\Project\\wwwroot\\images\\letter.jpeg",
+      "PackagePath": "staticwebassets\\images\\letter.jpeg"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\Project\\wwwroot\\images\\main.jpg",
+      "PackagePath": "staticwebassets\\images\\main.jpg"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\Project\\wwwroot\\images\\people\\1.jpeg",
+      "PackagePath": "staticwebassets\\images\\people\\1.jpeg"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\Project\\wwwroot\\images\\people\\2.jpeg",
+      "PackagePath": "staticwebassets\\images\\people\\2.jpeg"
+    },
+    {
+      "Id": "D:\\ASP.net\\asp_web\\asp_web\\Project\\wwwroot\\images\\people\\3.jpeg",
+      "PackagePath": "staticwebassets\\images\\people\\3.jpeg"
+    },
+    {
       "Id": "D:\\ASP.net\\asp_web\\asp_web\\Project\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
